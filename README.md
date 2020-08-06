@@ -1,7 +1,7 @@
 # Forkify
 Built as part of coursework going over vanilla javascript, course by [Jonas Schmedtmann](https://codingheroes.io/)
 
-Make sure to check out the[Hosted Demo](forkify.site)
+Make sure to check out the [Hosted Demo](forkify.site)
 
 ## Features
 * paginated API calls to [Food 2 Fork](https://rapidapi.com/community/api/food2fork)
