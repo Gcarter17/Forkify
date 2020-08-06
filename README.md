@@ -11,4 +11,4 @@ Make sure to check out my [Hosted Demo](forkify.site)
 
 # Drawbacks
 
-The original API has been deprecated, among other issues. As of 8/6/2929 The hosted demo is still operational, with limited API support. Stick to searching within the 5 main food groups... steak, chicken, pizza, pie, and brocolli of course... A few other searches work but it is only a demonstration project after all.
+The original API has been deprecated, among other issues. As of 8/6/2020 The hosted demo is still operational, with limited API support. Stick to searching within the 5 main food groups... steak, chicken, pizza, pie, and brocolli of course... A few other searches work but it is only a demonstration project after all.
